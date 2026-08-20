@@ -1,6 +1,6 @@
 # Drama script writer (episodes)
 
-Multi-agent **drama episode script** flow (planning, drafting, per-episode writing with editor rounds) in a **Streamlit** UI. The default entrypoint launches that app.
+Multi-agent **drama episode script** workflow orchestrator (planning, drafting, per-episode writing with editor rounds) with a **Streamlit** UI. The default entrypoint launches that app. Simple experiment with agents to experience real life script writing simulation.
 
 ## Requirements
 
